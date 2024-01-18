@@ -3,14 +3,6 @@
 version = 3
 
 [[package]]
-name = "hust"
-version = "0.1.0"
-dependencies = [
- "proc-macro2",
- "syn",
-]
-
-[[package]]
 name = "proc-macro2"
 version = "1.0.76"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -37,6 +29,14 @@ dependencies = [
  "proc-macro2",
  "quote",
  "unicode-ident",
+]
+
+[[package]]
+name = "tracks-hust"
+version = "0.1.0"
+dependencies = [
+ "proc-macro2",
+ "syn",
 ]
 
 [[package]]

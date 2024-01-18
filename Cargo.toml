@@ -1,5 +1,5 @@
 [package]
-name = "hust"
+name = "tracks-hust"
 version = "0.1.0"
 edition = "2021"
 authors = ["Ryan Kopf <ryan@ryankopf.com>"] # List of crate authors
